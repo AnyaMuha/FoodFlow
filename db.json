@@ -35,6 +35,16 @@
       "name": "jjm",
       "phone": "564646",
       "id": "ADCk6R4YJTU"
+    },
+    {
+      "id": "de56",
+      "name": "Anna",
+      "phone": "65464"
+    },
+    {
+      "id": "1cad",
+      "name": "ро",
+      "phone": "3564"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
